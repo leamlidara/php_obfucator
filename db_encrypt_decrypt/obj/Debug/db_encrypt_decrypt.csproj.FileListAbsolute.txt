@@ -1,0 +1,9 @@
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\bin\Debug\db_encrypt_decrypt.exe.config
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\bin\Debug\db_encrypt_decrypt.exe
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\bin\Debug\db_encrypt_decrypt.pdb
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.csprojResolveAssemblyReference.cache
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.Form1.resources
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.Properties.Resources.resources
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.csproj.GenerateResource.Cache
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.exe
+E:\C# for me\My_Lesson\My Project\PHP obfucator\db_encrypt_decrypt\obj\Debug\db_encrypt_decrypt.pdb

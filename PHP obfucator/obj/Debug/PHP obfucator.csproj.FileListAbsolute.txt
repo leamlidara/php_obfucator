@@ -1,0 +1,9 @@
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\bin\Debug\PHP obfucator.exe.config
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\bin\Debug\PHP obfucator.exe
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\bin\Debug\PHP obfucator.pdb
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP_obfucator.Form1.resources
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP_obfucator.frmHelp.resources
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP_obfucator.Properties.Resources.resources
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP obfucator.csproj.GenerateResource.Cache
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP obfucator.exe
+E:\C# for me\My_Lesson\My Project\PHP obfucator\PHP obfucator\obj\Debug\PHP obfucator.pdb
